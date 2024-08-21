@@ -10,4 +10,4 @@
 - Mentorships
 - Opensource
 
-![SageBanner](https://github.com/user-attachments/assets/a27964bd-60fd-42c7-8b0b-11e9590ac083)
+![Sage Banner](https://github.com/user-attachments/assets/92f8841b-a358-4193-ba92-58808c0c7bfb)
