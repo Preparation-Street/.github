@@ -1,7 +1,7 @@
-# Introducing Preparation Street - Learn Together & Grow Together
+# Introducing Preparation
 
 #### Overview
-- Preparation Street - Your Ultimate (End-to-End) Platform for Interviews!, DSA, DEV, Opensource, Remote
+- Empowering Every Step of Your DSA, Development, Open Source, and Remote Journey
 
 #### Specialties
 - Data Structure and Algorithm
